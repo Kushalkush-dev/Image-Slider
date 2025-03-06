@@ -1,8 +1,10 @@
 
-#cars{
+.cars{
   width: 50%;
 }
-
-.images {
-  display:contents
+.cars{
+  display: none;
+}
+.enabled{
+  display:block;
 }
