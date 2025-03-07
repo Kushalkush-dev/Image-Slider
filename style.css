@@ -23,6 +23,7 @@
   border:none;
   font-size:2rem;
   padding: 10px 15px;
+  cursor:pointer;
 }
 
 #previous{
